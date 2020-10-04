@@ -14,5 +14,6 @@ To calculate the average of the same and see the average polution in the years:
 =AVERAGE(B2:B261)
 To calculate the percentage of each fuel emitting the amount of carbon:
 =(SUM(C2:C261)/SUM(B2:B61))*100
+
 Run the above functions to get the desired result. The result can be further be sorted into in which the Carbon emission was maximum.
 Read the full story here at:https://medium.com/@abhijeetgaur8/increasing-fossil-carbon-emission-takes-us-back-to-1751-2eb41c12d16c
